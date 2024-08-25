@@ -3,8 +3,6 @@
 </div>
 -->
 
----
-
 ## 👨‍💻 About Me
 
 👨‍💻 Software Engineer<br>⚡ Backend Development Enthusiast<br>💼 Open To Job Opportunities<br>🌎 anilagaikwad.com <br>
