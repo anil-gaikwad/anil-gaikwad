@@ -1,6 +1,7 @@
-<div align="center">
+<!-- div align="center">
   <h1>Hi there, I'm <a href="https://www.linkedin.com/in/anil-gaikwad-25048416b/">Anil Gaikwad</a> 👋</h1>
 </div>
+-->
 
 ---
 
