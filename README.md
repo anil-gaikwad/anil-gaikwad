@@ -1,13 +1,10 @@
 <div align="center">
-  <h1>Hi there, I'm <a href="https://www.linkedin.com/in/yourlinkedin/">Your Name</a> 👋</h1>
-  <p>Software Engineer | Python & FastAPI Enthusiast | AWS Certified</p>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Badge">
+  <h1>Hi there, I'm <a href="https://www.linkedin.com/in/anil-gaikwad-25048416b/">Anil Gaikwad</a> 👋</h1>
+  <p>Software Engineer | Backend Development Enthusiast</p>
+  <a href="https://github.com/anil-gaikwad">
+    <img src="https://img.shields.io/github/followers/anil-gaikwad?label=Followers&style=social" alt="GitHub Badge">
   </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/twitter/follow/yourhandle?label=Follow&style=social" alt="Twitter Badge">
-  </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:anilgaikwad2298@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
 </div>
@@ -18,9 +15,9 @@
 
 I'm a dedicated **Software Engineer** with **3 years** of experience in backend development, specializing in **Python**, **FastAPI**, and **Django**. My expertise extends to **Serverless Architecture** and **AWS**, where I craft scalable solutions that prioritize performance and reliability. Passionate about learning and leveraging the latest technologies, I aim to deliver high-quality software products.
 
-- **Current Role**: Software Engineer at [Company Name]
-- **Location**: [City, Country]
-- **Education**: B.Sc. in Computer Science, [University Name]
+- **Current Role**: Software Engineer at Entropik Tech
+- **Location**: Bengaluru, India
+- **Education**: Master in Computer Science, Pune University 
 
 ---
 
@@ -68,16 +65,16 @@ Another project description showcasing your skills in a particular area, such as
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anil-gaikwad&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anil-gaikwad&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anil-gaikwad&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
 ## 🤝 Let's Connect
 
-- **Email**: [youremail@example.com](mailto:anilgaikwad2298@gmail.com)
+- **Email**: anilgaikwad2298@gmail.com(mailto:anilgaikwad2298@gmail.com)
 - **LinkedIn**: [yourlinkedin](https://www.linkedin.com/in/yourlinkedin)
 - **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
 
