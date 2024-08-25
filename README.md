@@ -46,16 +46,6 @@
 
 ---
 
-## 🚀 Projects
-
-### [Project Name 1](https://github.com/yourusername/project1)
-A detailed description of what this project is about, the technologies used, and the impact it made.
-
-### [Project Name 2](https://github.com/yourusername/project2)
-Another project description showcasing your skills in a particular area, such as cloud computing, backend development, or full-stack engineering.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
