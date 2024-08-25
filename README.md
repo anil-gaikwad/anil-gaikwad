@@ -77,6 +77,11 @@ Another project description showcasing your skills in a particular area, such as
 
 ---
 
+## 🤝 Let's Connect
+
+- **Email**: [anilgaikwad2298@gmail.com](mailto:anilgaikwad2298@gmail.com)
+---
+
 **I'm actively looking for new job opportunities!** If you have a role that aligns with my experience and skills, feel free to reach out.
 
 ---
