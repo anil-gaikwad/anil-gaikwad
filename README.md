@@ -21,6 +21,11 @@ I'm a dedicated **Software Engineer** with **3 years** of experience in backend 
 
 ---
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anil-gaikwad-25048416b) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anil_gaikwad)
+---
+
 ## 🛠️ Technical Skills
 
 ### **Languages**
@@ -69,14 +74,6 @@ Another project description showcasing your skills in a particular area, such as
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anil-gaikwad&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anil-gaikwad&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-
----
-
-## 🤝 Let's Connect
-
-- **Email**: anilgaikwad2298@gmail.com(mailto:anilgaikwad2298@gmail.com)
-- **LinkedIn**: [yourlinkedin](https://www.linkedin.com/in/yourlinkedin)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
 
 ---
 
