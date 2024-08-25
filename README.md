@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a dedicated **Software Engineer** with **3 years** of experience in backend development, specializing in **Python**, **FastAPI**, and **Django**. My expertise extends to **Serverless Architecture** and **AWS**, where I craft scalable solutions that prioritize performance and reliability. Passionate about learning and leveraging the latest technologies, I aim to deliver high-quality software products.
+👨‍💻 Software Engineer<br>⚡ Backend Development Enthusiast<br>💼 Open To Job Opportunities<br>🌎 anilagaikwad.com <br>
 
 ---
 
@@ -68,11 +68,12 @@ Another project description showcasing your skills in a particular area, such as
 ---
 
 ## 🤝 Let's Connect
-  <div align="left">
+  <div align="center">
   <a href="mailto:anilgaikwad2298@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
   </div>
+  
 ---
 
 **I'm actively looking for new job opportunities!** If you have a role that aligns with my experience and skills, feel free to reach out.
