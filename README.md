@@ -62,8 +62,6 @@
   </a>
   </div>
  --> 
----
-
 **I'm actively looking for new job opportunities!** If you have a role that aligns with my experience and skills, feel free to reach out.
 
 ---
