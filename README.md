@@ -1,12 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://www.linkedin.com/in/anil-gaikwad-25048416b/">Anil Gaikwad</a> 👋</h1>
   <p>Software Engineer | Backend Development Enthusiast</p>
-  <a href="https://github.com/anil-gaikwad">
-    <img src="https://img.shields.io/github/followers/anil-gaikwad?label=Followers&style=social" alt="GitHub Badge">
-  </a>
-  <a href="mailto:anilgaikwad2298@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge">
-  </a>
 </div>
 
 ---
@@ -79,7 +73,12 @@ Another project description showcasing your skills in a particular area, such as
 
 ## 🤝 Let's Connect
 
-- **Email**: [anilgaikwad2298@gmail.com](mailto:anilgaikwad2298@gmail.com)
+- **Email**:
+  <div align="left">
+  <a href="mailto:anilgaikwad2298@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge">
+  </a>
+  </div>
 ---
 
 **I'm actively looking for new job opportunities!** If you have a role that aligns with my experience and skills, feel free to reach out.
