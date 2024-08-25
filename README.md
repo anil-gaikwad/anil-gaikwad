@@ -54,14 +54,14 @@
 </div>
 
 ---
-
+<!-->
 ## 🤝 Let's Connect
   <div align="center">
   <a href="mailto:anilgaikwad2298@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
   </div>
-  
+ --> 
 ---
 
 **I'm actively looking for new job opportunities!** If you have a role that aligns with my experience and skills, feel free to reach out.
