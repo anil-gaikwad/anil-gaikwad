@@ -83,3 +83,5 @@ Another project description showcasing your skills in a particular area, such as
 **I'm actively looking for new job opportunities!** If you have a role that aligns with my experience and skills, feel free to reach out.
 
 ---
+[![](https://visitcount.itsvg.in/api?id=anil-gaikwad&icon=0&color=0)](https://visitcount.itsvg.in)
+
