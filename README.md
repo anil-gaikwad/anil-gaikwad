@@ -59,8 +59,8 @@ Another project description showcasing your skills in a particular area, such as
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anil-gaikwad&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anil-gaikwad&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anil-gaikwad&show_icons=true&theme=radical" alt="GitHub Stats" /> <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anil-gaikwad&theme=radical" alt="GitHub Streak" /> <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anil-gaikwad&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
