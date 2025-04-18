@@ -20,7 +20,7 @@
 <h3 align="center">🚀 Languages</h3>
 
 ![Python](https://img.shields.io/badge/Python-Expert-10B981?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Advanced-0EA5E9?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Skilled-0EA5E9?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Skilled-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-Skilled-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 </div>
@@ -28,8 +28,8 @@
 <div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px; border: 1px solid #0EA5E9; margin: 10px;">
 <h3 align="center">📊 Databases</h3>
 
-![DynamoDB](https://img.shields.io/badge/DynamoDB-Expert-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-Advanced-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Skilled-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-Skilled-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 </div>
@@ -38,7 +38,7 @@
 <h3 align="center">⚡ Frameworks & Libraries</h3>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-Expert-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-Advanced-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-Skilled-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Serverless-Advanced-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-Skilled-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-Advanced-37814A?style=for-the-badge&logo=celery&logoColor=white)
@@ -47,7 +47,7 @@
 <div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px; border: 1px solid #F43F5E; margin: 10px;">
 <h3 align="center">☁️ Cloud & DevOps</h3>
 
-![AWS](https://img.shields.io/badge/AWS-Expert-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Advanced-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-Advanced-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-Advanced-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -57,10 +57,10 @@
 <div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px; border: 1px solid #10B981; margin: 10px;">
 <h3 align="center">🌐 Web Technologies</h3>
 
-![React](https://img.shields.io/badge/React-Skilled-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-Advanced-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Advanced-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-Skilled-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-Familiar-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-Skilled-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Skilled-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 </div>
 
 <div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px; border: 1px solid #0EA5E9; margin: 10px;">
