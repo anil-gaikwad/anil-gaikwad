@@ -1,6 +1,5 @@
-<!-- Option 5: Professional Indigo -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=4F46E5&center=true&vCenter=true&width=435&lines=👋+Hi,+I'm+Anil+Gaikwad;🚀+Backend+Engineer;☁️+AWS+Cloud;⚡+Python+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=06B6D4&center=true&vCenter=true&width=435&lines=👋+Hi,+I'm+Anil+Gaikwad;🚀+Backend+Engineer;☁️+AWS+Cloud;⚡+Python+Specialist" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -82,15 +81,15 @@
 <table>
   <tr>
     <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=anil-gaikwad&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&bg_color=13111C&icon_color=8B5CF6&text_color=FFFFFF&title_color=8B5CF6"/>
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=anil-gaikwad&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&bg_color=1E1E2E&icon_color=89DCEB&text_color=FFFFFF&title_color=89DCEB"/>
     </td>
     <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anil-gaikwad&hide_border=true&layout=compact&theme=transparent&bg_color=13111C&text_color=FFFFFF&title_color=8B5CF6"/>
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anil-gaikwad&hide_border=true&layout=compact&theme=transparent&bg_color=1E1E2E&text_color=FFFFFF&title_color=89DCEB"/>
     </td>
   </tr>
 </table>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anil-gaikwad&bg_color=13111C&color=8B5CF6&line=D946EF&point=F43F5E&area=true&hide_border=true" alt="Contribution Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anil-gaikwad&bg_color=1E1E2E&color=89DCEB&line=94E2D5&point=F38BA8&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
