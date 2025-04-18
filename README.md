@@ -79,9 +79,9 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anil-gaikwad&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&icon_color=10B981&text_color=FFFFFF&title_color=10B981" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anil-gaikwad&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&hide_title=true&bg_color=0D1117&icon_color=10B981&text_color=FFFFFF&title_color=10B981" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anil-gaikwad&theme=transparent&hide_border=true&layout=compact&text_color=FFFFFF&title_color=10B981" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anil-gaikwad&hide_border=true&layout=compact&theme=github_dark&hide_title=true&bg_color=0D1117&text_color=FFFFFF&title_color=10B981" />
 </div>
 
 <div align="center">
