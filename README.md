@@ -1,65 +1,107 @@
-<!-- div align="center">
-  <h1>Hi there, I'm <a href="https://www.linkedin.com/in/anil-gaikwad-25048416b/">Anil Gaikwad</a> 👋</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=06B6D4&center=true&vCenter=true&width=435&lines=👋+Hi,+I'm+Anil+Gaikwad;🚀+Backend+Engineer;☁️+AWS+Cloud;⚡+Python+Specialist" alt="Typing SVG" />
 </div>
--->
+
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=About.me&logoColor=white)](https://anil-gaikwad.github.io/tech-portfolio)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaikwadanil)
+  [![Gmail](https://img.shields.io/badge/Gmail-F43F5E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anilgaikwad2298@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anil-gaikwad)
+
+</div>
 
 ## 👨‍💻 About Me
 
-👨‍💻 Software Engineer<br>⚡ Backend Development Enthusiast<br>💼 Open To Job Opportunities<br>🌎 anilagaikwad.com <br>
+<div style="background-color: #0D1117; padding: 20px; border-radius: 10px; border: 1px solid #10B981; margin: 10px;">
 
----
+Backend Engineer specializing in Python and AWS Cloud architecture. Focused on building scalable APIs and microservices using FastAPI and serverless technologies.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anil-gaikwad-25048416b) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anil_gaikwad)
----
+</div>
+
 
 ## 💻 Technical Skills
 
-### **Languages**
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
 
-### **Frameworks & Libraries**
-- ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-  ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+<div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px; border: 1px solid #10B981; margin: 10px;">
+<h3 align="center">🚀 Languages</h3>
 
-### **Web Technologies**
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-Expert-10B981?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Skilled-0EA5E9?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Skilled-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-Skilled-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+</div>
 
-### **Cloud & DevOps**
-- ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-  ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+<div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px; border: 1px solid #0EA5E9; margin: 10px;">
+<h3 align="center">📊 Databases</h3>
 
-### **Databases**
-- ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-Advanced-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Skilled-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-Skilled-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+</div>
 
----
+<div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px; border: 1px solid #6366F1; margin: 10px;">
+<h3 align="center">⚡ Frameworks & Libraries</h3>
 
-## 📊 GitHub Stats
+![FastAPI](https://img.shields.io/badge/FastAPI-Expert-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-Skilled-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-Advanced-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Skilled-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-Advanced-37814A?style=for-the-badge&logo=celery&logoColor=white)
+</div>
+
+<div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px; border: 1px solid #F43F5E; margin: 10px;">
+<h3 align="center">☁️ Cloud & DevOps</h3>
+
+![AWS](https://img.shields.io/badge/AWS-Advanced-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-Advanced-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-Advanced-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white)
+</div>
+
+<div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px; border: 1px solid #10B981; margin: 10px;">
+<h3 align="center">🌐 Web Technologies</h3>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-Skilled-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-Familiar-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-Skilled-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Skilled-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</div>
+
+<div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px; border: 1px solid #0EA5E9; margin: 10px;">
+<h3 align="center">🔄 APIs</h3>
+
+![REST](https://img.shields.io/badge/REST-Expert-FF5733?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-Skilled-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+</div>
+
+</div>
+
+## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anil-gaikwad&show_icons=true&theme=radical" alt="GitHub Stats" /> <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anil-gaikwad&theme=radical" alt="GitHub Streak" /> <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anil-gaikwad&layout=compact&theme=radical" alt="Top Languages" />
+<table>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=anil-gaikwad&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&bg_color=1E1E2E&icon_color=89DCEB&text_color=FFFFFF&title_color=89DCEB"/>
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anil-gaikwad&hide_border=true&layout=compact&theme=transparent&bg_color=1E1E2E&text_color=FFFFFF&title_color=89DCEB"/>
+    </td>
+  </tr>
+</table>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anil-gaikwad&bg_color=#f1f1f1&color=#f1f1f1&line=94E2D5&point=F38BA8&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
-  <!--div align="center">
-  <a href="mailto:anilgaikwad2298@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge">
-  </a>
-  </div>
-**I'm actively looking for new job opportunities!** If you have a role that aligns with my experience and skills, feel free to reach out.
--->
 
-
+<div align="center">
+  <h3>💼 Let's Connect!</h3>
+  <p>Open for exciting backend engineering opportunities</p>
+  
+  [![Contact Me](https://img.shields.io/badge/Contact_Me-Let's_Talk!-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anilgaikwad2298@gmail.com)
+</div>
