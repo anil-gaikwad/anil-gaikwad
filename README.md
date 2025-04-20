@@ -94,7 +94,7 @@ Backend Engineer specializing in Python and AWS Cloud architecture. Focused on b
   </tr>
 </table>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anil-gaikwad&bg_color=#AFE1AF&color=#228B22&line=94E2D5&point=F38BA8&area=true&hide_border=true" alt="Contribution Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anil-gaikwad&bg_color=#40E0D0&color=#228B22&line=94E2D5&point=F38BA8&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
