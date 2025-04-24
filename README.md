@@ -21,7 +21,7 @@ Backend Engineer specializing in Python and AWS Cloud architecture. Focused on b
 
 ## 💻 Technical Skills
 
-<div style="display: flex; flex-direction: column; gap: 20px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
 
   <!-- Languages -->
   <div style="background-color: #0D1117; padding: 20px; border-radius: 10px; border: 1px solid #10B981;">
