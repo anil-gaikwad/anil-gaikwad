@@ -19,61 +19,77 @@ Backend Engineer specializing in Python and AWS Cloud architecture. Focused on b
 
 </div>
 
-
 ## 💻 Technical Skills
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+<div style="display: flex; flex-direction: column; gap: 20px;">
 
-<h3 align="center">🚀 Languages</h3>
+  <!-- Languages -->
+  <div style="background-color: #0D1117; padding: 20px; border-radius: 10px; border: 1px solid #10B981;">
+    <h3 align="center">🚀 Languages</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Python-Expert-10B981?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-Skilled-0EA5E9?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-Skilled-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/C-Skilled-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+    </p>
+  </div>
 
-<img src="https://img.shields.io/badge/Python-Expert-10B981?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-Skilled-0EA5E9?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-Skilled-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/C-Skilled-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <!-- Databases -->
+  <div style="background-color: #0D1117; padding: 20px; border-radius: 10px; border: 1px solid #0EA5E9;">
+    <h3 align="center">📊 Databases</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/DynamoDB-Advanced-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-Skilled-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-Advanced-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-Skilled-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+    </p>
+  </div>
 
-<h3 align="center">⚡ Frameworks & Libraries</h3>
+  <!-- Frameworks & Libraries -->
+  <div style="background-color: #0D1117; padding: 20px; border-radius: 10px; border: 1px solid #6366F1;">
+    <h3 align="center">⚡ Frameworks & Libraries</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/FastAPI-Expert-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Django-Skilled-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Serverless-Advanced-FD5750?style=for-the-badge&logo=serverless&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-Skilled-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Celery-Advanced-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
+    </p>
+  </div>
 
-<img src="https://img.shields.io/badge/FastAPI-Expert-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-Skilled-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Serverless-Advanced-FD5750?style=for-the-badge&logo=serverless&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-Skilled-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Celery-Advanced-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
+  <!-- Cloud & DevOps -->
+  <div style="background-color: #0D1117; padding: 20px; border-radius: 10px; border: 1px solid #F43F5E;">
+    <h3 align="center">☁️ Cloud & DevOps</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/AWS-Advanced-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Terraform-Advanced-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jenkins-Advanced-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    </p>
+  </div>
 
-<h3 align="center">🌐 Web Technologies</h3>
+  <!-- Web Technologies -->
+  <div style="background-color: #0D1117; padding: 20px; border-radius: 10px; border: 1px solid #10B981;">
+    <h3 align="center">🌐 Web Technologies</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/JavaScript-Skilled-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/React-Familiar-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/HTML5-Skilled-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-Skilled-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    </p>
+  </div>
 
-<img src="https://img.shields.io/badge/JavaScript-Skilled-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-Familiar-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-Skilled-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-Skilled-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <!-- APIs -->
+  <div style="background-color: #0D1117; padding: 20px; border-radius: 10px; border: 1px solid #0EA5E9;">
+    <h3 align="center">🔄 APIs</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/REST-Expert-FF5733?style=for-the-badge&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GraphQL-Skilled-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+    </p>
+  </div>
 
-</td>
-<td valign="top" width="50%">
-
-<h3 align="center">📊 Databases</h3>
-
-<img src="https://img.shields.io/badge/DynamoDB-Advanced-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-Skilled-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-Advanced-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-Skilled-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-
-<h3 align="center">☁️ Cloud & DevOps</h3>
-
-<img src="https://img.shields.io/badge/AWS-Advanced-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-Advanced-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-Advanced-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<h3 align="center">🔄 APIs</h3>
-
-<img src="https://img.shields.io/badge/REST-Expert-FF5733?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/GraphQL-Skilled-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-
-</td>
-  </tr>
-</table>
+</div>
 
 
 ## 📈 GitHub Analytics
