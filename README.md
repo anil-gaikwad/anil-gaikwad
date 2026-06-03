@@ -136,19 +136,8 @@ Backend Engineer specializing in scalable cloud-native applications, distributed
 ## 📈 GitHub Analytics
 
 <div align="center">
-<table>
-  <tr>
-    <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=anil-gaikwad&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&bg_color=F0F4F8&icon_color=00ACC1&text_color=1B1F23&title_color=00BFA6" alt="Anil Gaikwad GitHub Stats"/>
-    </td>
-    <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anil-gaikwad&hide_border=true&layout=compact&theme=transparent&bg_color=F0F4F8&text_color=1B1F23&title_color=00BFA6" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
 
-<img width="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=anil-gaikwad&bg_color=F0F4F8&color=1B1F23&line=64DD17&point=FF6D00&area=true&area_color=A7FFEB&hide_border=true" alt="Contribution Graph"/>
-</div>
+<img width="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=anil-gaikwad&bg_color=F0F4F8&color=1B1F23&line=64DD17&point=FF6D00&area=true&area_color=A7FFEB&hide_border=true" alt="Contribution Graph"/></div>
 
 ---
 
